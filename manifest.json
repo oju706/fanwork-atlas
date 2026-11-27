@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "version": "2026.11.27-v2",
+  "updatedAt": "2026-11-27",
+  "count": 75706,
+  "works": 5966,
+  "notes": "Schema v2 零重复全库（75,706 人 / 5,966 部作品，已完成 1,923 部大陆官译标准化与年份目录）。",
+  "packFile": "fanwork_v2.json.gz",
+  "packSizeBytes": 6248663,
+  "patches": []
+}
